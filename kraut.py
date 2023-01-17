@@ -1,3 +1,7 @@
+"""Compressed Pickler: kraut"""
+
+__version__ = "0.1"
+
 import bz2
 import os
 import pickle
